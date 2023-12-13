@@ -20,3 +20,7 @@ Packages used:
 
 - Pillow: an image library. Used for creating the image of the board
 - tkinter: simple UI interface library.
+
+
+How to use it:
+Run mainUI.py. From there you follow the prompts it gives you, or press buttons.
