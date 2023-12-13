@@ -1,6 +1,7 @@
 
 #This is an attempt of a recreation of Diplomacy in python.
-##Unfortunately, as it is, it is very incomplte.
+
+##Unfortunately, as it is, it is very incomplete
 
 Here is what it currenlty does:
 
