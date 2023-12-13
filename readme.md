@@ -25,4 +25,4 @@ Packages used:
 How to use it:
 Run mainUI.py. From there you follow the prompts it gives you, or press buttons.
 
-!(Image URL)
+![(Image URL)](https://github.com/ZClarkXXYZ/DiplomaPy/blob/main/MAPfinalVersion2.png)https://github.com/ZClarkXXYZ/DiplomaPy/blob/main/MAPfinalVersion2.png
